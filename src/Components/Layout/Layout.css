@@ -1,0 +1,11 @@
+.navbar{
+    display: flex;
+    flex-direction: row;
+    width: 40vw;
+    justify-content: space-between;
+}
+
+.navbar li{
+    text-decoration: none;
+    list-style-type: none;
+}
